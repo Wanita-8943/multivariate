@@ -6,7 +6,7 @@
 
 [ ] square brackets
 
-( ) parentheses
+( ) parentheses 
 
 ![Hi](https://imgur.com/62Q6L0w.png)
 
