@@ -10,4 +10,4 @@
 
 ![Hi](https://imgur.com/62Q6L0w.png)
 
-อธิบายการใช้งาน Github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไร
+อธิบายการใช้งาน Github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไรและอธิบายวิธีเซฟไฟล์จาก Google Colab ลงไปใน Github
