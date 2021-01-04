@@ -8,6 +8,6 @@
 
 ( ) parentheses
 
-![Hi](file:///C:/Users/User/Desktop/shotaro.jpg)
+![Hi](62Q6L0w - Imgur.png)
 
 อธิบายการใช้งาน Github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไร
